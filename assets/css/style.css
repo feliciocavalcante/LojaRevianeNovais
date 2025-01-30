@@ -304,6 +304,7 @@ small{
    color: var(--cor-fonte);
    padding: 40px 0 10px;
    font-size: 15px;
+   width: ;
 }
 
 .rodape p{
@@ -370,6 +371,56 @@ ul{
    display: none;
 }
 
+.novoMenu nav ul li a{
+  color: black;
+}
+
+.novoMenu{
+  box-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.1);
+ }
+
+.linha2{
+   margin:100px auto 50px;
+   justify-content: space-between;
+}
+
+.linha2 select{
+   padding: 5px;
+   border: 1px solid var(--cor-padrao);
+   cursor: pointer;
+}
+
+.linha2 select:focus{
+   outline: none;
+}
+
+
+.paginacao{
+   margin: 0 auto 80px;
+   padding-left: 160px;
+}
+
+.paginacao span{
+   width: 40px;
+   height: 40px;
+   display: inline-block;
+   border: 1px solid var(--cor-padrao);
+   text-align: center;
+   line-height: 40px;
+   margin-left: 10px;
+   cursor: pointer;
+}
+
+.paginacao span:hover{
+   background: var(--cor-padrao);
+   color: var(--cor-fonte);
+   transition: 0.3s;
+}
+
+
+
+
+
 @media only screen and (max-width:800px){
    nav ul{
       position: absolute;
@@ -397,6 +448,11 @@ ul{
       display: block;
       cursor: pointer;
    }
+
+   .novoMenu nav ul li a{
+      color: var(--cor-fonte);
+    }
+    
 }
 
 @media only screen and (max-width:600px){
@@ -420,4 +476,10 @@ ul{
       font-size: 24px;
    }
 
+   .novoMenu nav ul li a{
+      color: var(--cor-fonte);
+    }
+
 }
+
+
