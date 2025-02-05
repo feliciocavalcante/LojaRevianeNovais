@@ -423,7 +423,7 @@ ul{
 
 .ver-produto .col-2 img{
    width: 100%;
-   padding: 0;
+   padding: 1px;
 }
 
 .ver-produto #produtoImg{
@@ -494,7 +494,27 @@ ul{
    cursor: pointer;
 }
 
+.carrinho-compras{
+   margin: 80px auto;
+}
 
+table{
+   width: 100%;
+   border-collapse: collapse;
+}
+
+.info-carrinho{
+   display: flex;
+   flex-wrap: wrap;
+}
+
+th{
+   background-color: var(--cor-padrao);
+   color: var(--cor-fonte);
+   text-align: left;
+   font-weight: normal;
+   padding: 5px;
+}
 
 
 
