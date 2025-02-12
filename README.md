@@ -14,6 +14,7 @@ Uma aplicação de site de compras de roupas femininas.
 ### Aplicação móvel
 
 ![mobile1](https://github.com/user-attachments/assets/245c2c04-7411-47b1-9759-7d9b0bdaac6d)
+<br>
 ![mobile](https://github.com/user-attachments/assets/ccfa9146-b22c-4f38-a8f9-59e8c53fbd7f)
 
 ## Página de produtos
@@ -27,6 +28,6 @@ Uma aplicação de site de compras de roupas femininas.
 ![Sem título22](https://github.com/user-attachments/assets/3f588bc3-4ac4-4e3e-9e8c-91ea0a737597)
 
 
-<a href='file:///C:/Users/USUARIO/Desktop/LojaRevianeNovais/index.html'><button>ACESSAR SITE EM FUNCIONAMENTO</button><a/>
+
 
 
