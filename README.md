@@ -1,13 +1,32 @@
+# Loja RN
+
+Uma aplicação de site de compras de roupas femininas.
+
+<p>"Na RN Boutique, a moda é feita para você. Encontre peças que valorizam o seu corpo e o seu estilo."</p>
+
+## Página Inicial 
+### Aplicação Web
 
 ![rne](https://github.com/user-attachments/assets/eccee9f9-30e2-4401-8521-921d0c2c3f07)
 ![rn](https://github.com/user-attachments/assets/794b0fcd-5e3e-4d89-92bd-78a536b1abab)
-![rn2](https://github.com/user-attachments/assets/20780484-9b41-431b-8b47-acb9d5517271)
-![rn3](https://github.com/user-attachments/assets/75925b42-7dc5-4353-bdf8-d7b306afce13)
-![rn4](https://github.com/user-attachments/assets/699aa94f-7c43-4715-9f6a-139dc21b27b0)
-![rn5](https://github.com/user-attachments/assets/17d7fb36-c6d3-459d-858f-6b7c7ab0f35b)
 
 
+### Aplicação móvel
+
+![mobile1](https://github.com/user-attachments/assets/245c2c04-7411-47b1-9759-7d9b0bdaac6d)
+![mobile](https://github.com/user-attachments/assets/ccfa9146-b22c-4f38-a8f9-59e8c53fbd7f)
+
+## Página de produtos
+### Aplicação Web
+
+![Sem título12](https://github.com/user-attachments/assets/d49ef020-4125-4ea3-ba86-6a89bd8e2256)
 
 
+### Aplicação móvel
+
+![Sem título22](https://github.com/user-attachments/assets/3f588bc3-4ac4-4e3e-9e8c-91ea0a737597)
+
+
+<a href='file:///C:/Users/USUARIO/Desktop/LojaRevianeNovais/index.html'><button>ACESSAR SITE EM FUNCIONAMENTO</button><a/>
 
 
